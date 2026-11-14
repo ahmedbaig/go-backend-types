@@ -1,0 +1,4 @@
+include:
+  - remote: 'https://raw.githubusercontent.com/ahmedbaig/go-backend-pipelines/main/gitlab/go.gitlab-ci.yml'
+variables:
+  DOCKER_DISABLED: "true"
